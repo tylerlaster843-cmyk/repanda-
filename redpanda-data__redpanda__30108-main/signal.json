@@ -1,0 +1,12 @@
+{
+  "test_validation_mode": "subset",
+  "validation_test_files": [
+    "src/v/strings/tests/string_switch_test.cc",
+    "src/v/hashing/tests/murmur_tests.cc",
+    "src/v/utils/tests/vint_test.cc",
+    "src/v/container/tests/chunked_vector_test.cc",
+    "src/v/reflection/test/arity_test.cc"
+  ],
+  "validation_test_file_count": 5,
+  "validation_tests_executed": 2
+}
